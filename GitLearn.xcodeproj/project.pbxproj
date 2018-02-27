@@ -15,6 +15,7 @@
 		B751A56C2044FDFB00E1B443 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B751A56B2044FDFB00E1B443 /* main.m */; };
 		B751A5762044FDFB00E1B443 /* GitLearnTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B751A5752044FDFB00E1B443 /* GitLearnTests.m */; };
 		B751A5812044FDFB00E1B443 /* GitLearnUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = B751A5802044FDFB00E1B443 /* GitLearnUITests.m */; };
+		B751A5902044FFE100E1B443 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B751A58F2044FFE100E1B443 /* TestViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		B751A57C2044FDFB00E1B443 /* GitLearnUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitLearnUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B751A5802044FDFB00E1B443 /* GitLearnUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitLearnUITests.m; sourceTree = "<group>"; };
 		B751A5822044FDFB00E1B443 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B751A58E2044FFE100E1B443 /* TestViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
+		B751A58F2044FFE100E1B443 /* TestViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				B751A55D2044FDFB00E1B443 /* AppDelegate.m */,
 				B751A55F2044FDFB00E1B443 /* ViewController.h */,
 				B751A5602044FDFB00E1B443 /* ViewController.m */,
+				B751A58E2044FFE100E1B443 /* TestViewController.h */,
+				B751A58F2044FFE100E1B443 /* TestViewController.m */,
 				B751A5622044FDFB00E1B443 /* Main.storyboard */,
 				B751A5652044FDFB00E1B443 /* Assets.xcassets */,
 				B751A5672044FDFB00E1B443 /* LaunchScreen.storyboard */,
@@ -267,6 +272,7 @@
 			files = (
 				B751A5612044FDFB00E1B443 /* ViewController.m in Sources */,
 				B751A56C2044FDFB00E1B443 /* main.m in Sources */,
+				B751A5902044FFE100E1B443 /* TestViewController.m in Sources */,
 				B751A55E2044FDFB00E1B443 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
