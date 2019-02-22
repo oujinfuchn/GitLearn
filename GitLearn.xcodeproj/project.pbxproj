@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B74E1967222017FB005BF5C8 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = B74E1966222017FB005BF5C8 /* Person.m */; };
+		B74E196D22201CA3005BF5C8 /* Dog.m in Sources */ = {isa = PBXBuildFile; fileRef = B74E196C22201CA3005BF5C8 /* Dog.m */; };
 		B751A55E2044FDFB00E1B443 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B751A55D2044FDFB00E1B443 /* AppDelegate.m */; };
 		B751A5612044FDFB00E1B443 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B751A5602044FDFB00E1B443 /* ViewController.m */; };
 		B751A5642044FDFB00E1B443 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B751A5622044FDFB00E1B443 /* Main.storyboard */; };
@@ -39,6 +40,8 @@
 /* Begin PBXFileReference section */
 		B74E1965222017FB005BF5C8 /* Person.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
 		B74E1966222017FB005BF5C8 /* Person.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
+		B74E196B22201CA3005BF5C8 /* Dog.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Dog.h; sourceTree = "<group>"; };
+		B74E196C22201CA3005BF5C8 /* Dog.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Dog.m; sourceTree = "<group>"; };
 		B751A5592044FDFB00E1B443 /* GitLearn.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitLearn.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B751A55C2044FDFB00E1B443 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B751A55D2044FDFB00E1B443 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -113,6 +116,8 @@
 				B751A5602044FDFB00E1B443 /* ViewController.m */,
 				B751A58E2044FFE100E1B443 /* TestViewController.h */,
 				B751A58F2044FFE100E1B443 /* TestViewController.m */,
+				B74E196B22201CA3005BF5C8 /* Dog.h */,
+				B74E196C22201CA3005BF5C8 /* Dog.m */,
 				B751A5622044FDFB00E1B443 /* Main.storyboard */,
 				B74E1966222017FB005BF5C8 /* Person.m */,
 				B74E1965222017FB005BF5C8 /* Person.h */,
@@ -275,6 +280,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B74E196D22201CA3005BF5C8 /* Dog.m in Sources */,
 				B751A5612044FDFB00E1B443 /* ViewController.m in Sources */,
 				B751A56C2044FDFB00E1B443 /* main.m in Sources */,
 				B74E1967222017FB005BF5C8 /* Person.m in Sources */,
